@@ -57,7 +57,7 @@ searchButton.addEventListener("click", () => {
     if (visibleProperties === 0) {
         alert("No properties match your search. Please try different filters.");
     }
-    
+
     document.getElementById("properties").scrollIntoView({
     behavior: "smooth"
     });
@@ -69,7 +69,7 @@ searchButton.addEventListener("click", () => {
 
 const whatsappButton = document.querySelector(".whatsapp-button");
 
-const whatsappNumber = "2340000000000";
+const whatsappNumber = "2348118058969";
 
 whatsappButton.addEventListener("click", (event) => {
 
