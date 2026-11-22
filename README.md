@@ -60,3 +60,10 @@ Developed as a frontend web development portfolio project.
 ## License
 
 This project is intended for educational and portfolio demonstration purposes.
+## Website Preview
+
+![Havenstone Properties Homepage](Screenshots/homepage.png)
+
+## Live Website
+
+https://havenstone-properties.netlify.app/
